@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="localhost" id="0fe5464a-1249-4f28-954d-e254a0232d6f" port="21" customName="NewsWordPress" nameFormat="CUSTOM" username="svetasvetasvetasvetaer">
+        <option name="customName" value="NewsWordPress" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
